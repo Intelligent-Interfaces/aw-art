@@ -17,7 +17,7 @@ Things we keep in our game design and machine learning back pockets.
 * [Design Language Systems](https://uxplanet.org/design-language-system-d438f4aa30e0)
     * [Material Design](https://material.io/design/)
     * [Carbon](https://www.carbondesignsystem.com/)
-    * [:apple:](https://developer.apple.com/design/human-interface-guidelines/)
+    * [🍎](https://developer.apple.com/design/human-interface-guidelines/)
     * [Skeuomorphism](https://en.wikipedia.org/wiki/Skeuomorph)
     * [Neumorphism](https://medium.com/@artofofiare/neumorphism-the-right-way-a-2020-design-trend-386e6a09040a)
     
