@@ -61,6 +61,6 @@ Things we keep in our game design and machine learning back pockets.
 
 * Machine Learning Books :book:
     * [_Hands-On Machine Learning with Scikit-Learn and TensorFlow_](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)  
-    * [_Foundations of Deep Reinforcement Learning_](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381)
+    * [_Foundations of Deep Reinforcement Learning: Theory and Practice in Python_](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381)
 
  ---
