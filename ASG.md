@@ -1,5 +1,5 @@
 # 🌟 Automatic Scene Generation
-**Description:**
+<!-- **Description:** -->
 
 ---
 ## Part 1: Making Games, Worlds, and Much More!

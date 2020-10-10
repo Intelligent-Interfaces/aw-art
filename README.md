@@ -9,7 +9,7 @@ Experiments with [`Unity`](https://unity.com/), [`Anything World`](https://anyth
 Please jump around the tutorial on [_Automatic Scene Generation_](ASG.md) to get an overview of `Anything World (AW)`, `Unity`, `C#`, and `python` for game/world building.
 
 ## 🌟 Computational User Interfaces
-Please jump around the tutorial on [_Computational User Interfaces_](CUI.md) to get an overview of building interfaces that live in a browser, or natively on operating systems.
+Please jump around the tutorial on [_Computational User Interfaces_](CUI.md) to get an overview of building interfaces that live in a browser, or natively on some operating systems.
 
 ---
 ## 🔥 Resources

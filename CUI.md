@@ -1,5 +1,5 @@
 # 🌟 Computational User Interfaces
-**Description:**
+<!-- **Description:** -->
 
 ---
 ## Part 1: Communication, Cognitive Science, and Computation
@@ -13,5 +13,6 @@ When thinking, implementing and collaborating with graphic designers and informa
     * _Bottom_ - Allows movement between primary destination within an application
     * _Top_ - Allows back and forth between pages
 * **Buttons** - Allows users to take actions, and make choices, with a single tap.  
-* **Dialogs** - Informs users about a task and can contian critical information, require decisions, or involve multiple task.
+* **Dialogs** - Informs users about a task and can cont critical information, require decisions, or involve multiple task.
+
 ---
