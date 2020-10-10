@@ -1,4 +1,4 @@
-# Foundations of Automatic Scene Generation
+# 🌟 Automatic Scene Generation
 
 <!-- ## Forward
 ## Preface -->

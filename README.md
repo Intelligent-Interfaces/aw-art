@@ -1,15 +1,15 @@
-# :star: aw-art
+# ⭐️ aw-art
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 
-Experiments with `Unity`, `Anything World`, and various other AI/ML frameworks (`Torch.NET`, `TensorFlow`). 
+Experiments with [`Unity`](https://unity.com/), [`Anything World`](https://anything.world/), and various other AI/ML frameworks (`Torch.NET`, `TensorFlow`). 
 
 ---
-## :star2: Automatic Scene Generation
-Please jump around the tutorial on [_Automatic Scene Generation_](main_tutorial.md) to get an overview of `Anything World (AW)`, `Unity`, `C#`, and `python` for game/world building.
+## 🌟 Automatic Scene Generation
+Please jump around the tutorial on [_Automatic Scene Generation_](ASG.md) to get an overview of `Anything World (AW)`, `Unity`, `C#`, and `python` for game/world building.
 
 ---
-## :fire: Resources
+## 🔥 Resources
 Things we keep in our game design and machine learning back pockets.
 
 [User Interface Design](https://en.wikipedia.org/wiki/User_interface)
@@ -19,7 +19,7 @@ Things we keep in our game design and machine learning back pockets.
     * [Carbon](https://www.carbondesignsystem.com/)
     * [:apple:](https://developer.apple.com/design/human-interface-guidelines/)
     * [Skeuomorphism](https://en.wikipedia.org/wiki/Skeuomorph)
-    * [neumorphism](https://medium.com/@artofofiare/neumorphism-the-right-way-a-2020-design-trend-386e6a09040a)
+    * [Neumorphism](https://medium.com/@artofofiare/neumorphism-the-right-way-a-2020-design-trend-386e6a09040a)
     
 
 [Game Design](https://en.wikipedia.org/wiki/Game_design)
@@ -43,23 +43,23 @@ Things we keep in our game design and machine learning back pockets.
     * Quantum machine learning
         * [_Quantum enhancements for deep reinforcement learning in large spaces_](https://arxiv.org/abs/1910.12760)
 
-* Machine Learning Methods :fishing_pole_and_fish:
+* Machine Learning Methods 🎣
     * Reinforcement learning
     * Supervised learning
     * Deep Learning
     * Beyesian
 
-* Machine Learning Tools :wrench:
+* Machine Learning Tools 🔧
 
-    * Open source machine learning frameworks = {Caffe, [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), Torch, CNTK, [:curly_loop:](https://slm-lab.gitbook.io/slm-lab/)}
+    * Open source machine learning frameworks = {Caffe, [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), Torch, CNTK, [➰](https://slm-lab.gitbook.io/slm-lab/)}
 
-* Machine Learning Environments :cd: :video_game: :space_invader:
+* Machine Learning Environments 💿 🎮 👾
     * OpenAI gym
     * OpenAI Roboschool
     * VizDoom
     * Unity
 
-* Machine Learning Books :book:
+* Machine Learning Books 📖
     * [_Hands-On Machine Learning with Scikit-Learn and TensorFlow_](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)  
     * [_Foundations of Deep Reinforcement Learning: Theory and Practice in Python_](https://www.amazon.com/Deep-Reinforcement-Learning-Python-Hands/dp/0135172381)
 
